@@ -1,3 +1,12 @@
+## <div class="header2">Structure </div>
+- data/
+  - raw/
+    - Online_Sales.csv
+- notebooks/
+  - cohort.ipynb
+- requirements.txt
+- README.md
+
 # Online Sales Analysis
 
 ## Overview
